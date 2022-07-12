@@ -57,7 +57,7 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Adrmods'
+global.me = 'Ademods'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
