@@ -14,7 +14,7 @@ let buttonMessage= {
 'mediaUrl': '08980330708',
 'mediaType': 2,
 'previewType': 'pdf',
-'title': 'Mau Sc Yang Lain?,Cek Aja Channel Yt Nya',
+'title': 'Mau Sc Nya Beli Dong Di No Bawah',
 'body': me,
 'thumbnail': thumb2,
 'sourceUrl': 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'}},
